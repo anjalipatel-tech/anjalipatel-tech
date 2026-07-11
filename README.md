@@ -1,24 +1,17 @@
 <div align="center">
 
-# 👋 Hello, I'm Anjali Patel
+# 👋 Hi, I'm Anjali Patel
 
 ### 🚀 Full Stack Web Developer | React Developer | MERN Stack Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 
-<br>
+<br><br>
 
-<a href="https://anjali-portfolio-azure.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/anjalipatel-tech">
-<img src="https://img.shields.io/badge/GitHub-anjalipatel--tech-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/anjali-patel-04aaa5327">
-<img src="https://img.shields.io/badge/LinkedIn-Anjali_Patel-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<a href="https://anjali-portfolio-azure.vercel.app">🌐 Portfolio</a> •
+<a href="https://github.com/anjalipatel-tech">💻 GitHub</a> •
+<a href="https://www.linkedin.com/in/anjali-patel-04aaa5327">💼 LinkedIn</a> •
+<a href="mailto:anjalipatel2k@gmail.com">📧 Email</a>
 
 </div>
 
@@ -28,35 +21,35 @@
 
 🎓 B.Tech in Computer Science & Engineering
 
-💻 Passionate about building responsive, scalable, and user-friendly web applications using modern web technologies.
+💻 Passionate about building modern, scalable, and responsive web applications using the MERN Stack.
 
-🚀 Interested in Full Stack Development, UI Engineering, and creating impactful digital experiences.
+🚀 I enjoy creating clean user interfaces, solving real-world problems, and continuously improving my development skills.
 
-🌱 Currently improving my skills in advanced React, Node.js, Express.js, MongoDB, and modern frontend architecture.
+🌱 Currently learning advanced React.js, Node.js, Express.js, MongoDB, and scalable application architecture.
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Tech Stack
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,vite"/>
 </p>
 
-## ⚙️ Backend
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-## 🗄️ Database
+### 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-## 🧰 Tools
+### 🛠️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
@@ -68,13 +61,13 @@
 
 ## 📊 Enterprise Admin Dashboard
 
-A professional enterprise dashboard built using React, Vite, Bootstrap, and Chart.js featuring analytics, authentication, reusable components, and responsive design.
+Modern enterprise dashboard with analytics, authentication, reusable UI components and responsive design.
 
-🌐 Live Demo
+🔗 Live Demo
 
 https://enterprise-admin-dashboard-seven.vercel.app
 
-💻 Repository
+💻 GitHub
 
 https://github.com/anjalipatel-tech/enterprise-admin-dashboard
 
@@ -82,50 +75,52 @@ https://github.com/anjalipatel-tech/enterprise-admin-dashboard
 
 ## 💼 Corporate Business & Recruitment Portal
 
-A modern corporate website designed for recruitment, business services, appointment management, and client engagement.
+Corporate website for recruitment, business services, appointment booking and client engagement.
 
-🌐 Live Demo
+🔗 Live Demo
 
 https://corporate-business-recruitment-portal.netlify.app
 
-💻 Repository
+💻 GitHub
 
 https://github.com/anjalipatel-tech/corporate-business-recruitment-portal
 
 ---
 
-## 🌐 Personal Portfolio Website
+## 🌐 Personal Portfolio
 
-A responsive developer portfolio showcasing projects, certifications, technical skills, education, and achievements.
+Responsive portfolio showcasing projects, certifications, education, skills and achievements.
 
-🌐 Live Demo
+🔗 Live Demo
 
 https://anjali-portfolio-azure.vercel.app
 
 ---
 
-# 💡 What I'm Learning
+# 📚 Currently Learning
 
 - Advanced React.js
-- REST API Integration
-- MERN Stack Development
-- Clean Code Practices
-- UI/UX Development
+- Node.js & Express.js
+- MongoDB
+- REST APIs
 - Performance Optimization
+- Clean Architecture
+- System Design Basics
 
 ---
 
-# 📈 GitHub Goals
+# 🎯 Career Objective
 
-✔ Build real-world projects
+Seeking an opportunity as a **Full Stack Developer** where I can contribute to meaningful projects, enhance my technical expertise, and continue learning while building impactful web applications.
 
-✔ Write clean & maintainable code
+---
 
-✔ Learn modern technologies
+# 📈 GitHub Journey
 
-✔ Contribute to open source
-
-✔ Improve problem-solving skills
+- 🚀 Building real-world projects
+- 💻 Improving coding skills
+- 🌱 Learning modern technologies
+- ⭐ Exploring open-source development
 
 ---
 
@@ -143,18 +138,20 @@ https://www.linkedin.com/in/anjali-patel-04aaa5327
 
 anjalipatel2k@gmail.com
 
-📍 Location
+💻 GitHub
 
-Varanasi, Uttar Pradesh, India
+https://github.com/anjalipatel-tech
+
+📍 Varanasi, Uttar Pradesh, India
 
 ---
 
 <div align="center">
 
-# 🌟 Thanks for Visiting
+## ⭐ Thanks for Visiting My Profile
 
-### If you like my work, consider following my GitHub journey ⭐
+If you like my work, consider giving a ⭐ to my repositories.
 
-🚀 Always Learning • Always Building • Always Growing
+**Happy Coding! 🚀**
 
 </div>
