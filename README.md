@@ -12,10 +12,6 @@
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0A66C2?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/anjalipatel-tech">
-<img src="https://img.shields.io/badge/GitHub-anjalipatel--tech-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/anjali-patel-04aaa5327">
 <img src="https://img.shields.io/badge/LinkedIn-Anjali%20Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
