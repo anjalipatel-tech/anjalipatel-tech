@@ -2,18 +2,31 @@
 
 # 👋 Hi, I'm Anjali Patel
 
-### 🚀 Full Stack Web Developer | React Developer | MERN Stack Enthusiast
+### 🚀 Full Stack Web Developer • React Developer • MERN Stack Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;React+%7C+Node.js+%7C+MongoDB;Passionate+About+Clean+UI;Always+Learning+New+Technologies" />
 
-<br><br>
+<br>
 
-<a href="https://anjali-portfolio-azure.vercel.app">🌐 Portfolio</a> •
-<a href="https://github.com/anjalipatel-tech">💻 GitHub</a> •
-<a href="https://www.linkedin.com/in/anjali-patel-04aaa5327">💼 LinkedIn</a> •
-<a href="mailto:anjalipatel2k@gmail.com">📧 Email</a>
+<a href="https://anjali-portfolio-azure.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/anjalipatel-tech">
+<img src="https://img.shields.io/badge/GitHub-anjalipatel--tech-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anjali-patel-04aaa5327">
+<img src="https://img.shields.io/badge/LinkedIn-Anjali%20Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:anjalipatel2k@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
+
+---
 
 ---
 
