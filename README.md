@@ -32,7 +32,7 @@
 
 🚀 I enjoy building clean, responsive user interfaces, solving real-world problems, and continuously improving my development skills.
 
-🌱 Continuously enhancing my expertise in React.js, Node.js, Express.js, MongoDB, REST APIs, and scalable application architecture.
+🌱 Currently learning advanced React.js, Node.js, Express.js, MongoDB, and scalable application architecture.
 
 ---
 
@@ -56,14 +56,6 @@
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-### 🔐 Authentication
-
-<p>
-<img src="https://skillicons.dev/icons?i=jwt"/>
-</p>
-
-> JWT Authentication & bcrypt.js
-
 ### 🛠️ Tools
 
 <p>
@@ -71,18 +63,17 @@
 </p>
 
 ---
-
 # 🚀 Featured Projects
 
 ## 🍽️ AI Recipe Generator
 
 AI-powered MERN application that generates complete recipes from food images using Google Gemini AI. Features secure JWT authentication, recipe management, image upload, and MongoDB integration.
 
-🔗 **Live Demo**
+🔗 Live Demo
 
 https://ai-recipe-generator-gamma.vercel.app
 
-💻 **GitHub Repository**
+💻 GitHub
 
 https://github.com/anjalipatel-tech/AI-Recipe-Generator
 
@@ -92,11 +83,11 @@ https://github.com/anjalipatel-tech/AI-Recipe-Generator
 
 Modern enterprise dashboard with analytics, authentication, reusable UI components, and responsive design.
 
-🔗 **Live Demo**
+🔗 Live Demo
 
 https://enterprise-admin-dashboard-seven.vercel.app
 
-💻 **GitHub Repository**
+💻 GitHub
 
 https://github.com/anjalipatel-tech/enterprise-admin-dashboard
 
@@ -106,11 +97,11 @@ https://github.com/anjalipatel-tech/enterprise-admin-dashboard
 
 Corporate website for recruitment, business services, appointment booking, and client engagement.
 
-🔗 **Live Demo**
+🔗 Live Demo
 
 https://corporate-business-recruitment-portal.netlify.app
 
-💻 **GitHub Repository**
+💻 GitHub
 
 https://github.com/anjalipatel-tech/corporate-business-recruitment-portal
 
@@ -120,35 +111,13 @@ https://github.com/anjalipatel-tech/corporate-business-recruitment-portal
 
 Portfolio showcasing my projects, technical skills, education, certifications, and achievements.
 
-🔗 **Live Demo**
+🔗 Live Demo
 
 https://anjali-portfolio-azure.vercel.app
 
-💻 **GitHub Repository**
+💻 GitHub
 
 https://github.com/anjalipatel-tech/anjali-portfolio
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=anjalipatel-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalipatel-tech&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-[![Anjali Patel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjalipatel-tech&theme=tokyo-night&hide_border=true)](https://github.com/anjalipatel-tech)
-
-</div>
 
 ---
 
@@ -166,42 +135,38 @@ https://github.com/anjalipatel-tech/anjali-portfolio
 
 # 🎯 Career Objective
 
-Seeking an opportunity as a **Full Stack Developer** where I can contribute to impactful projects, enhance my technical expertise, and grow as a software developer while building scalable, user-centric web applications.
+Seeking an opportunity as a **Full Stack Developer** where I can contribute to impactful projects, enhance my technical expertise, and grow as a software developer while building scalable web applications.
 
 ---
 
 # 📈 GitHub Journey
 
-- 🚀 Building real-world MERN Stack projects
-- 💻 Strengthening problem-solving and development skills
-- 🌱 Continuously learning modern web technologies
-- ⭐ Exploring open-source contributions
-- 🤖 Integrating AI into real-world applications
-- ☁️ Deploying full-stack applications on Vercel & Railway
+- 🚀 Building real-world MERN projects
+- 💻 Strengthening problem-solving skills
+- 🌱 Learning modern web technologies
+- ⭐ Contributing to open-source projects
 
 ---
 
 # 📬 Connect With Me
 
-🌐 **Portfolio**
+🌐 Portfolio
 
 https://anjali-portfolio-azure.vercel.app
 
-💼 **LinkedIn**
+💼 LinkedIn
 
 https://www.linkedin.com/in/anjali-patel-04aaa5327
 
-📧 **Email**
+📧 Email
 
 anjalipatel2k@gmail.com
 
-💻 **GitHub**
+💻 GitHub
 
 https://github.com/anjalipatel-tech
 
-📍 **Location**
-
-Varanasi, Uttar Pradesh, India
+📍 Varanasi, Uttar Pradesh, India
 
 ---
 
@@ -221,8 +186,8 @@ Varanasi, Uttar Pradesh, India
 
 If you like my work, consider giving a ⭐ to my repositories.
 
-### 🚀 Let's Build Something Amazing Together!
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+Coding!+🚀;See+you+again!+😊"/>
+**Happy Coding! 🚀**
 
 </div>
+---
+
