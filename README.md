@@ -65,6 +65,49 @@
 </p>
 
 ---
+# 🚀 Featured Projects
+
+## 🍽️ AI Recipe Generator
+
+AI-powered MERN application that generates complete recipes from food images using Google Gemini AI. Features secure JWT authentication, recipe management, image upload, and MongoDB integration.
+
+🔗 Live Demo
+
+https://ai-recipe-generator-gamma.vercel.app
+
+💻 GitHub
+
+https://github.com/anjalipatel-tech/AI-Recipe-Generator
+
+---
+
+## 📊 Enterprise Admin Dashboard
+
+Modern enterprise dashboard with analytics, authentication, reusable UI components and responsive design.
+
+🔗 Live Demo
+
+https://enterprise-admin-dashboard-seven.vercel.app
+
+💻 GitHub
+
+https://github.com/anjalipatel-tech/enterprise-admin-dashboard
+
+---
+
+## 💼 Corporate Business & Recruitment Portal
+
+Corporate website for recruitment, business services, appointment booking and client engagement.
+
+🔗 Live Demo
+
+https://corporate-business-recruitment-portal.netlify.app
+
+💻 GitHub
+
+https://github.com/anjalipatel-tech/corporate-business-recruitment-portal
+
+---
 
 # 🚀 Featured Projects
 
