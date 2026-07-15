@@ -24,8 +24,6 @@
 
 ---
 
----
-
 # 💫 About Me
 
 🎓 B.Tech in Computer Science & Engineering
@@ -123,15 +121,15 @@ https://github.com/anjalipatel-tech/anjali-portfolio
 
 ---
 
-# 📚 Currently Working
+# 🚀 Current Focus
 
-- Advanced React.js
-- Node.js & Express.js
-- MongoDB
-- REST APIs
-- Performance Optimization
-- Clean Architecture
-- System Design Basics
+- Building Scalable MERN Applications
+- Advanced React.js Development
+- RESTful API Design & Development
+- Backend Development with Node.js & Express.js
+- MongoDB Data Modeling & Optimization
+- Clean Architecture & Best Practices
+- System Design Fundamentals
 
 ---
 
