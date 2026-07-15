@@ -76,6 +76,17 @@ https://ai-recipe-generator-gamma.vercel.app
 💻 GitHub
 
 https://github.com/anjalipatel-tech/AI-Recipe-Generator
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anjalipatel-tech&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalipatel-tech&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -120,16 +131,6 @@ https://anjali-portfolio-azure.vercel.app
 https://github.com/anjalipatel-tech/anjali-portfolio
 
 ---
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anjalipatel-tech&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalipatel-tech&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 # 🚀 Current Focus
 
