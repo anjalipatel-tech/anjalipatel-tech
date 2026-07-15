@@ -32,7 +32,7 @@
 
 💻 Passionate about building modern, scalable, and responsive web applications using the MERN Stack.
 
-🚀 I enjoy creating clean user interfaces, solving real-world problems, and continuously improving my development skills.
+🚀 I enjoy building clean, responsive user interfaces, solving real-world problems, and continuously improving my development skills.
 
 🌱 Currently learning advanced React.js, Node.js, Express.js, MongoDB, and scalable application architecture.
 
@@ -83,7 +83,7 @@ https://github.com/anjalipatel-tech/AI-Recipe-Generator
 
 ## 📊 Enterprise Admin Dashboard
 
-Modern enterprise dashboard with analytics, authentication, reusable UI components and responsive design.
+Modern enterprise dashboard with analytics, authentication, reusable UI components, and responsive design.
 
 🔗 Live Demo
 
@@ -97,37 +97,7 @@ https://github.com/anjalipatel-tech/enterprise-admin-dashboard
 
 ## 💼 Corporate Business & Recruitment Portal
 
-Corporate website for recruitment, business services, appointment booking and client engagement.
-
-🔗 Live Demo
-
-https://corporate-business-recruitment-portal.netlify.app
-
-💻 GitHub
-
-https://github.com/anjalipatel-tech/corporate-business-recruitment-portal
-
----
-
-# 🚀 Featured Projects
-
-## 📊 Enterprise Admin Dashboard
-
-Modern enterprise dashboard with analytics, authentication, reusable UI components and responsive design.
-
-🔗 Live Demo
-
-https://enterprise-admin-dashboard-seven.vercel.app
-
-💻 GitHub
-
-https://github.com/anjalipatel-tech/enterprise-admin-dashboard
-
----
-
-## 💼 Corporate Business & Recruitment Portal
-
-Corporate website for recruitment, business services, appointment booking and client engagement.
+Corporate website for recruitment, business services, appointment booking, and client engagement.
 
 🔗 Live Demo
 
@@ -141,15 +111,19 @@ https://github.com/anjalipatel-tech/corporate-business-recruitment-portal
 
 ## 🌐 Personal Portfolio
 
-Responsive portfolio showcasing projects, certifications, education, skills and achievements.
+Portfolio showcasing my projects, technical skills, education, certifications, and achievements.
 
 🔗 Live Demo
 
 https://anjali-portfolio-azure.vercel.app
 
+💻 GitHub
+
+https://github.com/anjalipatel-tech/anjali-portfolio
+
 ---
 
-# 📚 Currently Learning
+# 📚 Currently Working
 
 - Advanced React.js
 - Node.js & Express.js
@@ -163,16 +137,16 @@ https://anjali-portfolio-azure.vercel.app
 
 # 🎯 Career Objective
 
-Seeking an opportunity as a **Full Stack Developer** where I can contribute to meaningful projects, enhance my technical expertise, and continue learning while building impactful web applications.
+Seeking an opportunity as a **Full Stack Developer** where I can contribute to impactful projects, enhance my technical expertise, and grow as a software developer while building scalable web applications.
 
 ---
 
 # 📈 GitHub Journey
 
-- 🚀 Building real-world projects
-- 💻 Improving coding skills
-- 🌱 Learning modern technologies
-- ⭐ Exploring open-source development
+- 🚀 Building real-world MERN projects
+- 💻 Strengthening problem-solving skills
+- 🌱 Learning modern web technologies
+- ⭐ Contributing to open-source projects
 
 ---
 
