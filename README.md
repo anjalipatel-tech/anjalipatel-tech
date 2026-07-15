@@ -121,6 +121,16 @@ https://github.com/anjalipatel-tech/anjali-portfolio
 
 ---
 
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anjalipatel-tech&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalipatel-tech&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 # 🚀 Current Focus
 
 - Building Scalable MERN Applications
@@ -177,5 +187,14 @@ https://github.com/anjalipatel-tech
 If you like my work, consider giving a ⭐ to my repositories.
 
 **Happy Coding! 🚀**
+
+</div>
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+[![Anjali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjalipatel-tech&theme=tokyo-night&hide_border=true)](https://github.com/anjalipatel-tech)
 
 </div>
